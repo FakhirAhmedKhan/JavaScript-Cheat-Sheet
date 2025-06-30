@@ -445,13 +445,3 @@ async function fetchData() {
 # ⭐️ Conclusion
 
 JavaScript is huge — and this roadmap covers **core foundations** with enough depth to make you confident.
-
-👉 **If you want**, I can go even further and teach you:
-
-✅ TypeScript
-✅ Advanced patterns (OOP, functional)
-✅ Full DOM deep dive
-✅ React / frameworks
-✅ More advanced asynchronous patterns
-
-**Just tell me what area you want to master next,** and I’ll build a _step-by-step_ lesson plan for you! 🚀
